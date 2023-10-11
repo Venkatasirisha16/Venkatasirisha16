@@ -1,8 +1,12 @@
+
+
 <h1 align="center">Hi 👋, I'm Venkata Sirisha</h1>
-<h3 align="center">Seeking to achieve a position in a reputed company which provides me with adequate opportunities to increase my skills and knowledge, along with contributing for the growth of the company.</h3>
-<img align="right" alt="coding" width="350" height="250" src="https://im3.ezgif.com/tmp/ezgif-3-3f51a98c8c.gif">
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatasirisha16&label=Profile%20views&color=0e75b6&style=flat" alt="venkatasirisha16" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatasirisha16" alt="venkatasirisha16" /></a> </p>
+<img align="right" alt="coding" width="350" height="250" src="https://im3.ezgif.com/tmp/ezgif-3-3f51a98c8c.gif">
 
 <p align="left"> <a href="https://twitter.com/sirisha1916" target="blank"><img src="https://img.shields.io/twitter/follow/sirisha1916?logo=twitter&style=for-the-badge" alt="sirisha1916" /></a> </p>
 
@@ -34,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatasirisha16&show_icons=true&locale=en" alt="venkatasirisha16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatasirisha16&" alt="venkatasirisha16" /></p>
+
+
