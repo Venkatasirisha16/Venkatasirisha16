@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Sirisha</h1>
 <h3 align="center">Seeking to achieve a position in a reputed company which provides me with adequate opportunities to increase my skills and knowledge, along with contributing for the growth of the company.</h3>
-<img align="right" alt="coding" width="400" height="300" src="https://im3.ezgif.com/tmp/ezgif-3-3f51a98c8c.gif">
+<img align="right" alt="coding" width="350" height="250" src="https://im3.ezgif.com/tmp/ezgif-3-3f51a98c8c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatasirisha16&label=Profile%20views&color=0e75b6&style=flat" alt="venkatasirisha16" /> </p>
 
