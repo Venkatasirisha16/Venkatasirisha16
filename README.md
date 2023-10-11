@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Venkata Sirisha</h1>
 <h3 align="center">Seeking to achieve a position in a reputed company which provides me with adequate opportunities to increase my skills and knowledge, along with contributing for the growth of the company.</h3>
 
@@ -7,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatasirisha16" alt="venkatasirisha16" /></a> </p>
 <img align="right" alt="coding" width="350" height="250" src="https://im3.ezgif.com/tmp/ezgif-3-3f51a98c8c.gif">
+
 
 <p align="left"> <a href="https://twitter.com/sirisha1916" target="blank"><img src="https://img.shields.io/twitter/follow/sirisha1916?logo=twitter&style=for-the-badge" alt="sirisha1916" /></a> </p>
 
@@ -23,11 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sirisha1916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirisha1916" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sirisha-bommuluri-22352b277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sirisha-bommuluri-22352b277" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100093827409480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100093827409480" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_v_sirisha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_v_sirisha/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sirishabommulur1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sirishabommulur1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sirishabommuluri16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sirishabommuluri16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sirisha-bommuluri-22352b277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirisha-bommuluri-22352b277" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100093827409480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100093827409480" height="30" width="40" /></a>
+<a href="https://instagram.com/_v_sirisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_v_sirisha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sirishabommulur1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sirishabommulur1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sirishabommuluri16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sirishabommuluri16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
