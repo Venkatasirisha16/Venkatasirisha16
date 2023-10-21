@@ -8,6 +8,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/sirisha1916" target="blank"><img src="https://img.shields.io/twitter/follow/sirisha1916?logo=twitter&style=for-the-badge" alt="sirisha1916" /></a> </p>
+<img align="right" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on **Front End Development**
 
