@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Venkata Sirisha Bommuluri</h1>
+<h1 align="center">Hi 👋, I'm Venkata Sirisha </h1>
 <h3 align="center">A passionate MEAN and MERN Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatasirisha16&label=Profile%20views&color=0e75b6&style=flat" alt="venkatasirisha16" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatasirisha16" alt="venkatasirisha16" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/sirisha1916" target="blank"><img src="https://img.shields.io/twitter/follow/sirisha1916?logo=twitter&style=for-the-badge" alt="sirisha1916" /></a> </p>
+<img align="right" alt="coding" width="400" height="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🌱 I’m currently learning **React,Angular,Node Js**
 
